@@ -663,5 +663,11 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="Catalogue" />
+    <orderEntry type="module" module-name="GSC" />
+    <orderEntry type="module" module-name="main" />
+    <orderEntry type="module" module-name="More-Power" />
+    <orderEntry type="module" module-name="NoStealerNo" />
+    <orderEntry type="module" module-name="PlayerLies" />
   </component>
 </module>
