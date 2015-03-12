@@ -1,0 +1,9 @@
+[
+(
+  "modid": "AMI",
+  "name": "Android Minecraft User Interface Connector",
+  "version": "0.0.a",
+  "description": "Android Control Meets Minecraft (Forge)",
+  "authorList": ["Atmatm6"]
+)
+]
